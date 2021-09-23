@@ -25,7 +25,7 @@ heroku login
 heroku create app_name
 ```
 ##### Push to Heroku
-Follow Steps for getting `credentials.json` file: [Here](https://github.com/AbirHasan2005/GdriveSearcherBot#getting-google-oauth-api-credential-file)
+Follow Steps for getting `credentials.json` file: [Here](https://github.com/OdierBambi/GdriveSearcherBot#getting-google-oauth-api-credential-file)
 ```shell
 git clone https://github.com/AbirHasan2005/GdriveSearcherBot
 cd GdriveSearcherBot
